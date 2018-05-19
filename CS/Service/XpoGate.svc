@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="DXSample.Service.XpoGate" CodeBehind="XpoGate.svc.cs" %>
