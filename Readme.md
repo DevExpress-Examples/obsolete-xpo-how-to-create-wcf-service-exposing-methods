@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Program.cs](./CS/Client/Program.cs) (VB: [Program.vb](./VB/Client/Program.vb))
+* [CachingWCFServiceDataStore.cs](./CS/DataStore/CachingWCFServiceDataStore.cs) (VB: [CachingWCFServiceDataStore.vb](./VB/DataStore/CachingWCFServiceDataStore.vb))
+* [CriteriaPatcher.cs](./CS/DataStore/CriteriaPatcher.cs) (VB: [CriteriaPatcher.vb](./VB/DataStore/CriteriaPatcher.vb))
+* [IXpoGate.cs](./CS/DataStore/IXpoGate.cs) (VB: [IXpoGate.vb](./VB/DataStore/IXpoGate.vb))
+* [IXpoGate.cs](./CS/Service/IXpoGate.cs) (VB: [IXpoGate.vb](./VB/Service/IXpoGate.vb))
+* [XpoGate.svc.cs](./CS/Service/XpoGate.svc.cs) (VB: [XpoGate.svc.vb](./VB/Service/XpoGate.svc.vb))
+<!-- default file list end -->
 # OBSOLETE - How to create WCF service exposing methods necessary to implement the ICacheToCahceCommunicationCore interface
 
 
